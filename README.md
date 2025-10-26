@@ -1,4 +1,4 @@
-Task 3 🚀 
+ 🚀 
 Classification of cats and dogs with the help of SVM.
 
 🔎 Leveraging the power of Support Vector Machine (SVM), I built a robust classifier trained on a dataset of thousands of images.
